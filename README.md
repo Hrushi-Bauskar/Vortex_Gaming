@@ -40,3 +40,4 @@ Contributions are welcome! Follow these steps:
 4. Push to your branch and submit a pull request.
 
 ## Demo View
+https://hrushi-bauskar.github.io/Vortex_Gaming/
